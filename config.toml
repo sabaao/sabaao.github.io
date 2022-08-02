@@ -1,5 +1,0 @@
-baseURL = 'https://sabaao.github.io'
-languageCode = 'zh-tw'
-title = 'Charles Blog'
-theme='hugo-clarity'
-
