@@ -3,9 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sabaao.github.io/categories/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
   </url><url>
     <loc>https://sabaao.github.io/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
+  </url><url>
+    <loc>https://sabaao.github.io/post/first-post/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
+  </url><url>
+    <loc>https://sabaao.github.io/post/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
+  </url><url>
+    <loc>https://sabaao.github.io/tags/tag_name1/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
+  </url><url>
+    <loc>https://sabaao.github.io/tags/tag_name2/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
   </url><url>
     <loc>https://sabaao.github.io/tags/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
+  </url><url>
+    <loc>https://sabaao.github.io/categories/technology/</loc>
+    <lastmod>2022-08-02T22:37:44+08:00</lastmod>
   </url>
 </urlset>
